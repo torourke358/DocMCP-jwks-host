@@ -1,2 +1,2 @@
-# DocMCP-jwks-host
-JWKS Host for DocMCP Server/EPIC Integration Pass Key Production
+# JWKS for Epic App Orchard
+This repo serves `/.well-known/jwks.json` over GitHub Pages.
